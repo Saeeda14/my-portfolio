@@ -1,4 +1,5 @@
 import React from 'react';
+import './portfolio.css';
 
 function Project({ title, image, link, githubLink }) {
   return (
